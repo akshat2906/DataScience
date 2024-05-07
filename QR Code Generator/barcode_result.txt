@@ -1,0 +1,1 @@
+Recognized Barcode:upi://pay?pa=9968126127@paytm&pn=PaytmUser&mc=0000&mode=02&purpose=00&orgid=159761&cust=1215179036
